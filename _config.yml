@@ -18,7 +18,7 @@ name: 'JarmeApp'
 author: 'JarmeApp'
 author_image: "/assets/images/logo_medium.png"
 
-paginate:	7
+paginate:	8
 
 url: "https://blog.jarmemori.es" # the base hostname & protocol for your site
 baseurl: ""
