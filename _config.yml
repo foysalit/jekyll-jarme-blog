@@ -21,7 +21,7 @@ author_image: "/assets/images/logo_medium.png"
 paginate:	10
 
 url: "https://blog.jarmemori.es" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "/"
 #used to display twitter cards
 twitter_handle: '@jarmeapp'
 
