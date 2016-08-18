@@ -1,5 +1,8 @@
 ---
 ---
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
 <!DOCTYPE html>
 <html>
   {% include head.html %}
@@ -15,8 +18,19 @@
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+                {% if author %}
+                <div class="author-image" style="background-image: url({{ author.image }})">Author Avatar</div>
+                <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                  <a href="{{author.web}}" target="_blank">{{ author.name }}</a>
+                </h4>
+                {% endif %}
+                , tagged with :
+                {% for tag in page.tags %}
+                  <span class="post-tag post-tag-{{tag}}">
+                    <a href="/tag/{{tag}}">#{{tag}}</a>
+                    {% unless forloop.last %} ,{% endunless %}
+                  </span>
+                {% endfor %}
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -28,8 +42,19 @@
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ page.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+                {% if author %}
+                <div class="author-image" style="background-image: url({{ author.image }})">Author Avatar</div>
+                <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                  <a href="{{author.web}}" target="_blank">{{ author.name }}</a>
+                </h4>
+                {% endif %}
+                , tagged with :
+                {% for tag in page.tags %}
+                  <span class="post-tag post-tag-{{tag}}">
+                    <a href="/tag/{{tag}}">#{{tag}}</a>
+                    {% unless forloop.last %} ,{% endunless %}
+                  </span>
+                {% endfor %}
             </div>
           </div>
         </div>
