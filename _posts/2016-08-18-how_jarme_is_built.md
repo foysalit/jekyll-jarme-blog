@@ -8,9 +8,7 @@ tags: [featured, tech, frameworks, jarme]
 image: /assets/article_images/2016-08-18-how_jarme_is_built/picture_of_meaningless_code.jpg
 ---
 
-## Made with :heart: (lol)
-
-But seriously though, we truly loved working on this app and looking at the user stats for first 2 months, we probably have like 3 users including us 2 and even after that, we are still as motivated as the first day to make this app the best.
+Made with :heart: (lol).... But seriously though, we truly loved working on this app and looking at the user stats for first 2 months, we probably have like 3 users including us 2 and even after that, we are still as motivated as the first day to make this app the best.
 
 I use this app on a **daily basis** and every single feature has been very, very useful.
 
