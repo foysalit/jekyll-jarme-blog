@@ -51,7 +51,9 @@ The features we had in mind really didn't need a noSql database and actually fit
 
 Ionic 2 was really easy to dive in even though the syntax and everything is very different from v1. I really have to give it to the ionic team for their astonishing work on the documentation. There wasn't a thing that I couldn't find in the docs. They also have a [great slack team](https://ionic-worldwide.slack.com) if you want more hands on help from the community members.
 
-Initially, I picked es6 but soon, the ionic team abandoned support for es6 so I had to move the whole app over to typescript, which was a bit annoyingly repetitive task but a lot easier than I thought it would be. Typescript is not that bad to work with either. I kind of miss the flexibility of typeless plain ol' .js but having a type system also made it easier to debug and maintain.  
+Initially, I picked es6 but soon, the ionic team abandoned support for es6 so I had to move the whole app over to typescript, which was a bit annoyingly repetitive task but a lot easier than I thought it would be. Typescript is not that bad to work with either. I kind of miss the flexibility of typeless plain ol' .js but having a type system also made it easier to debug and maintain.
+
+Also, there is a really nice angular1 token auth package built for devise token auth. However, it's not compatible with angular2 at the time of writing this post. So I had to built an auth module from scratch as angular2 service. It was really fun and learned a lot about authentication and security in general.
 
 ## Server
 
