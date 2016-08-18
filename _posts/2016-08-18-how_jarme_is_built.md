@@ -5,7 +5,7 @@ date:   2016-08-18 17:34:25
 author: foysal_ahamed
 categories: tech
 tags: [featured, tech, frameworks, jarme]
-image: /assets/article_images/2016-08-18-how_jarme_is_built/picture_of_meaningless_code.jpeg
+image: /assets/article_images/2016-08-18-how_jarme_is_built/picture_of_meaningless_code.jpg
 ---
 
 ## Made with :heart: (lol)
@@ -58,3 +58,7 @@ Initially, I picked es6 but soon, the ionic team abandoned support for es6 so I 
 I always liked having more control over my server environment. Which is why I decided to go with a VPS provider instead of PaaS like heroku or openshift. I do, however, use those platforms for staging purposes and they are pretty handy to be honest.
 
 Being a long time user of digitalocean, I really didn't have to look elsewhere. I use `git push` for deploy with custom git hooks. The api is served over nginx and puma. Digitalocean has a great article on how to set it all up [right here](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-git-hooks-on-ubuntu-14-04).
+
+### Thanks for reading
+
+I really believe in ***using the right tool for the job*** and I'm never too religious about any programming language or framework. Which is why, this has been a really enjoyable ride for me so far. Going out of my comfort zone and using languages, frameworks, tools that I am not very familiar with is a lot more rewarding when you're building something that you will use everyday.
