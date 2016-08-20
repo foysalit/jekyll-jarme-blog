@@ -138,7 +138,7 @@
       </div>
     </div>
     {% include javascripts.html %}
-    
+    {{jekyll.environment}}
     {% if jekyll.environment == 'production' %}
       {% include analytics.html %}
     {% endif %}
