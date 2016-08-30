@@ -62,3 +62,6 @@ Being a long time user of digitalocean, I really didn't have to look elsewhere. 
 ### Thanks for reading
 
 I really believe in ***using the right tool for the job*** and I'm never too religious about any programming language or framework. Which is why, this has been a really enjoyable ride for me so far. Going out of my comfort zone and using languages, frameworks, tools that I am not very familiar with is a lot more rewarding when you're building something that you will use everyday.
+
+### Related Links
+[Stack Share](http://stackshare.io/foysalit/jarme)
