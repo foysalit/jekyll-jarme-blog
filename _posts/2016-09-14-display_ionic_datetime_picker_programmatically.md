@@ -21,13 +21,12 @@ Seeing how the component has a nice `open()` [method](https://github.com/driftyc
 
 `awesome-compo/awesome.html`
 
-{% highlight html linenos %}
-	
+```html
 <ion-col (click)="datePicker.open()" width-50>
 	<ion-icon name="calendar"></ion-icon>
 
 	<div>
-		{{ selected.toDate() | amDateFormat:'DD' }} {{ selected.toDate() | amDateFormat:'MMM' }}, {{ selected.toDate() | amDateFormat:'YYYY'}}
+		{% raw %}{{ selected.toDate() | amDateFormat:'DD' }} {{ selected.toDate() | amDateFormat:'MMM' }}, {{ selected.toDate() | amDateFormat:'YYYY'}}{% endraw %}
 	</div>
 
 	<ion-item no-lines hidden="true">
@@ -38,8 +37,7 @@ Seeing how the component has a nice `open()` [method](https://github.com/driftyc
 			[(ngModel)]="date"></ion-datetime>
 	</ion-item>
 </ion-col>
-
-{% endhighlight %}
+```
 
 Notice a few things here - 
 
@@ -52,7 +50,7 @@ Now let's take a look at the component's controller class that does the magic.
 `awesome-compo/awesome.ts`
 
 
-{% highlight javascript linenos %}
+```javascript
 
 import {Component, ViewChild} from '@angular/core';
 import { DateFormatPipe } from 'angular2-moment';
@@ -74,7 +72,7 @@ export class AwesomeCompo {
   	};
 }
 
-{% endhighlight %}
+```
 
 So where's what we are doing - 
 
