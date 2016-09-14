@@ -3,6 +3,8 @@ gems:
   - jemoji
   - jekyll-paginate
 
+future: true
+
 # Site settings
 title: "Jarme"
 description: > # this means to ignore newlines until "email:"
