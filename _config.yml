@@ -4,6 +4,7 @@ gems:
   - jekyll-paginate
 
 future: true
+highlighter: pygments
 
 # Site settings
 title: "Jarme"
