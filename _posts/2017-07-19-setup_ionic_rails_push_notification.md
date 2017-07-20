@@ -5,7 +5,7 @@ date:   2017-07-19 14:34:25
 author: foysal_ahamed
 categories: tech
 tags: [ionic, rails, push, notifications, rpush, jarme]
-image: /assets/article_images/2016-09-14-display_ionic_datetime_picker_programmatically/cover.png
+image: /assets/article_images/2017-07-19-setup_ionic_rails_push_notification/cover.png
 ---
 
 Why?
