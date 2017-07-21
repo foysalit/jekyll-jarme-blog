@@ -4,7 +4,7 @@ title:  "Send push notification from rails to an ionic app"
 date:   2017-07-19 14:34:25
 author: foysal_ahamed
 categories: tech
-tags: [ionic, rails, push, notifications, rpush, jarme]
+tags: [featured, ionic, rails, push, notifications, rpush, jarme]
 image: /assets/article_images/2017-07-19-setup_ionic_rails_push_notification/cover.png
 ---
 

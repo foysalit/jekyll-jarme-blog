@@ -4,7 +4,7 @@ title:  "How Jarme Is Built"
 date:   2016-08-18 17:34:25
 author: foysal_ahamed
 categories: tech
-tags: [featured, tech, frameworks, jarme]
+tags: [tech, frameworks, jarme]
 image: /assets/article_images/2016-08-18-how_jarme_is_built/picture_of_meaningless_code.jpg
 ---
 
