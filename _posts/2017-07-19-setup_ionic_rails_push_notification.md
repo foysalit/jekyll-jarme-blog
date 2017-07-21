@@ -257,7 +257,7 @@ rake db:migrate
 ```
 This installs rpush, initialize rpush with all it's config suitable for rails environment and create the necessary db tables.
 
-Next, we need to save our FCM auth key as an rpush app entry in our db. Now I'm not sure if this is the right place for this bit of code but it seems to work. Open up `config/initializers/rpush.rb` filr and add the following lines of code at the end of the file :
+Next, we need to save our FCM auth key as an rpush app entry in our db. Now I'm not sure if this is the right place for this bit of code but it seems to work. Open up `config/initializers/rpush.rb` file and add the following lines of code at the end of the file :
 ```
 # initializer file may run multiple times but we don't wanna register the app multiple times so first check if it already exists in db and create new one only if it doesn't.
 if (!Rpush::Gcm::App.find_by_name("pushme_droid"))
@@ -272,20 +272,6 @@ if (!Rpush::Gcm::App.find_by_name("pushme_droid"))
 end
 ```
 Notice the value of the `app.auth_key` variable, this is the string we retrieved from our FCM project settings page from `Server Key`. *Make sure* you use your own key instead of mine.
-
-```
-# initializer file may run multiple times but we don't wanna register the app multiple times so first check if it already exists in db and create new one only if it doesn't.
-if (!Rpush::Gcm::App.find_by_name("pushme_droid"))
-    app = Rpush::Gcm::App.new
-    # let's name this one pushme_droid
-    app.name = "pushme_droid"
-    # FCM auth key from firebase project
-    app.auth_key = "AAAApXFh_iQ:APA91bGX2hv2usndpXYzW-HICrgBMWLeN3MMaka5UVuuHPc69NZ8Uj1eGkbm6RMtDe199b9xNfXY_297eCGOtWC3VsVeBVbhKKpHYDk3vi-4ofJHL2BX7ucVIx8zu61FeO5hHzItu4sX"
-    app.connections = 1
-    # save our app in db
-    app.save!
-end
-```
 
 Since we updated an initializer, we will need to restart the rails app. First turn it off, then restart it the same way as before `rails s -b 192.168.1.107`.
 
