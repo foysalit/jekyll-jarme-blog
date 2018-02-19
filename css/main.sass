@@ -12,7 +12,7 @@ $rs: 16px
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
-
+blog
 
 @mixin respond-to($breakpoint)
   @media only screen and (max-width: $breakpoint + px)
@@ -43,18 +43,17 @@ body
   position: fixed
   left: 10px
   top: 10px
-  width: $rs*3
-  height: $rs*3
-  background-color: #000
+  width: $rs*4
+  height: $rs*4
   overflow: hidden
   z-index: 99
   .logo
     display: block
     position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    top: 0
+    left: 0
+    width: $rs*4
+    height: $rs*4
     background-size: cover
     background-repeat: no-repeat
 
