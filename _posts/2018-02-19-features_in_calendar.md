@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Features in calendar?"
+title:  "Features in calendar"
 date:   2018-02-19 19:52:25
 author: suborna_jahan
 categories: faq
