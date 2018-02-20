@@ -19,7 +19,7 @@ Now follow the instructions below to add a memory from the calendar:
 
 > ***Step 2:*** Click on Calendar from the menu
 
-> ***Step 3:*** Click on any of the dates that is "faded out" and does not have a "dot" underneeth it.
+> ***Step 3:*** Click on any of the dates that is "faded out" and does not have a "dot" underneath it.
 
 > ***Step 4:*** Choose add memory from the pop up window.
 

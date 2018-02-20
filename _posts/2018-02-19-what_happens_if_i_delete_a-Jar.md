@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What happens if I delete a Jar"
+title:  "What happens if I delete a Jar?"
 date:   2018-02-19 18:42:25
 author: suborna_jahan
 categories: faq
