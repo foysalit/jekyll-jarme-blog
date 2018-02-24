@@ -14,7 +14,7 @@ A memory can be deleted from Jarme App by following the steps below:
 
 ***Step 2.*** Click on the **delete icon** on the top right corner.
 
-***Step 3.*** A final **popup** will show asking if you are sure you would like to remove the memories. Click **remove** to delete your memory.
+***Step 3.*** A final **pop-up** will show asking if you are sure you would like to remove the memories. Click **remove** to delete your memory.
 
 You can also:
 - Delete **multiple memories** by tapping anywhere on the other memories once clicked on the icon. 

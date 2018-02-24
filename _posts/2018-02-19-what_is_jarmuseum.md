@@ -5,7 +5,7 @@ date:   2018-02-19 20:03:25
 author: suborna_jahan
 categories: faq
 tags: [jarme, jar, memory, jarmuseum]
-image:  /assets/article_images/2018-02-19-can_i_add_memories_offline/cover.jpg
+image:  /assets/article_images/2018-02-19-what_is_Jarmuseum/cover.jpg
 ---
 
 JarMuseum is a feature we implemented to remind users of the memories they created in the past. Currently, any memories created more than 3 months ago will be featured on your memory lane page. That is considering you did create a memory today three months ago or before.
