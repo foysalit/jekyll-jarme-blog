@@ -8,7 +8,12 @@ tags: [jarme, jar, memory, members, create, permission]
 image:  /assets/article_images/2018-02-10-what_are_memory_jars/cover.jpg
 ---
 
-**Memory jars** are best ways to group your memories in different categories.
+**Memory jars** are best ways to group your memories in different categories. Going to an event? vacationing in hawai? Planning your wedding? create a jar and put your memories related to those events in their own jars. 
+
+JarMe Premium members can export their jars into `.pdf` file format which can then be printed out as a diary/notebook.
+
+To quickly show you how we use jars to keep our own memories we made a short video. Enjoy:
+{% include youtubePlayer.html id='J386wVtHxO4' %} 
 
 ## *Can I add members in my jars?*
 **Yes Absolutely.** Currently you can add up to two members in your memory jar but we are planning to increase the numbers very soon.
