@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to view memories offline?"
+title:  "How to view memories offline on Jarme?"
 date:   2018-02-19 19:57:25
 author: suborna_jahan
 categories: faq

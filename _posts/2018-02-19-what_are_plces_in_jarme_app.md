@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are places in Jarme App?"
+title:  "What are \"places\" in Jarme?"
 date:   2018-02-19 00:30:25
 author: suborna_jahan
 categories: faq

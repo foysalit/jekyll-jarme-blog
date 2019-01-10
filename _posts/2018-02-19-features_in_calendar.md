@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Features in calendar"
+title:  "Features in calendar on Jarme"
 date:   2018-02-19 19:52:25
 author: suborna_jahan
 categories: faq
@@ -25,7 +25,9 @@ Now follow the instructions below to add a memory from the calendar:
 
 > ***Step 5:*** Add details to your memory and click on the "right icon" on top right corner.
 
-***Why add a memory from the Calendar?*** Adding a memory from the calendar will automatically select the date for your memory so you won't have to change the date manually, which would be the case if you were adding the memory from the memory lane page.
+***Why add a memory from the Calendar?*** 
+
+Adding a memory from the calendar will automatically select the date for your memory so you won't have to change the date manually, which would be the case if you were adding the memory from the memory lane page.
 
 ## *Calendar Filter* 
 View memories of previous months by selecting **month** and **year** through the calendar filter. 

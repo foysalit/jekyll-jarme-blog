@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to delete a memory?"
+title:  "How to delete a memory on Jarme?"
 date:   2018-02-19 20:16:25
 author: suborna_jahan
 categories: faq

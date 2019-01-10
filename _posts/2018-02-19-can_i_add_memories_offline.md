@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can I add memories offline?"
+title:  "Can I add memories offline on Jarme?"
 date:   2018-02-19 20:00:25
 author: suborna_jahan
 categories: faq

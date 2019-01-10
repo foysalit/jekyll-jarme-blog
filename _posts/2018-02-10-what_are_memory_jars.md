@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are memory jars?"
+title:  "What are memory Jars on Jarme?"
 date:   2018-02-10 17:34:25
 author: suborna_jahan
 categories: faq

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Personal Statistics In Jarme App"
+title:  "Personal Statistics In Jarme"
 date:   2018-02-22 20:13:25
 author: suborna_jahan
 categories: faq

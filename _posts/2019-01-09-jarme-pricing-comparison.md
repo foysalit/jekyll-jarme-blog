@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pricing comparison between jarme and other similar platforms"
+title:  "Pricing comparison between Jarme and other similar platforms"
 date:   2019-01-09 20:13:25
 author: suborna_jahan
 categories: faq

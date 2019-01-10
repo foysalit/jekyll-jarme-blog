@@ -2,11 +2,11 @@
 layout: page
 title: About
 author: foysal_ahamed
-tags: [about jarme, intro]
+tags: [about jarme, introduction, Foysal, Suborna, Facebook, angular, ionic, rails]
 permalink: /about/
 ---
 
-Well, hello stranger! I am [Foysal](https://foysal.it) and I have [Iraa](https://twitter.com/iraa_moni) with me here. We have built [Jarme](https://jarmemori.es) together. Iraa designed the UI/UX and in charge of managing everything about jarme that doesn't involve coding while I take care of the easy part which is writing code for the app/site/blog of our app.
+Well, hello stranger! I am [Foysal](https://foysal.it) and I have [Suborna](https://twitter.com/suborna00) with me here. We have built [Jarme](https://jarmemori.es) together. Suborna designed the UI/UX and in charge of managing everything about jarme that doesn't involve coding while I take care of the easy part which is writing code for the app/site/blog of our app.
 
 ### Why Jarme?
 
@@ -25,7 +25,7 @@ As you have already guessed, we like to keep things documented. We both have lea
 
 I will be writing about the tech stack that powers the app, and our entire platform, i.e: [angular 2](https://angular.io/), [ionic 2](http://ionicframework.com/docs/v2/), [rails](https://rubyonrails.org), [postgresql](https://www.postgresql.org/) etc.
 
-Iraa, on the other hand, will post about her design process, motivations, UX decisions and the hell she has been through which is also known as "working with Foysal!"
+Suborna, on the other hand, will post about her design process, motivations, UX decisions and the hell she has been through which is also known as "working with Foysal!"
 
 
 ***tldr;*** welcome to jarme's official blog, we are hoping to give you a better insight into the backstage of the app.

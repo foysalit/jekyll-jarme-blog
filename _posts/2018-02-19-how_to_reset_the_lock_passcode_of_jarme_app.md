@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to reset the lock passcode of Jarme App?"
+title:  "How to reset the lock passcode of Jarme?"
 date:   2018-02-19 19:42:25
 author: suborna_jahan
 categories: faq

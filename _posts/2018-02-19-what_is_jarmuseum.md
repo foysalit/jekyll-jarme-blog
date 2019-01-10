@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Jarmuseum?"
+title:  "What is Jarmuseum on Jarme "
 date:   2018-02-19 20:03:25
 author: suborna_jahan
 categories: faq

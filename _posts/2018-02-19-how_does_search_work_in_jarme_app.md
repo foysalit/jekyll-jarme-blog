@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How does search work in Jarme App?"
+title:  "How does Advanced Search work in Jarme?"
 date:   2018-02-19 00:38:25
 author: suborna_jahan
 categories: faq
